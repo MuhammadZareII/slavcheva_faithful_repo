@@ -1,0 +1,3 @@
+run_waveguide_validation;
+run_vcsel_1290nm_qw_noise_seeded;
+run_vcsel_850nm_noise_seeded;

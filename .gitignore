@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+*.fig
+
+# outputs
+figures/generated/*
+!figures/generated/.gitkeep
+results/
+*.mat
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
