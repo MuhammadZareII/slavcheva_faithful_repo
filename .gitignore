@@ -16,3 +16,11 @@ results/
 # OS
 .DS_Store
 Thumbs.db
+
+# Notes and articles (not for repo)
+_notes/
+paper/
+NOTES.md
+__pycache__/
+*.pyc
+*.pyo
